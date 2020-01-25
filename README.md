@@ -1,4 +1,4 @@
-# foodaccess
+# Houston Deserted
 Food Access Project for Rice Datathon 2020
 
 Megan Xiao, Thomas Yeum, Adrienne Li, Angela Zhang
